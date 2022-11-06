@@ -1,0 +1,2 @@
+# LastEpochDatabaseGenerator
+Simple Gui
